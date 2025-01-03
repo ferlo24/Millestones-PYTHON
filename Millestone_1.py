@@ -5,14 +5,14 @@ import matplotlib.pyplot as plt
 #                                                   DATOS                                                  #
 ############################################################################################################
 # Condiciones iniciales
-x0 = 1.0
-y0 = 0.0
-vx0 = 0.0
-vy0 = 1.0
+x0 = 1
+y0 = 0
+vx0 = 0
+vy0 = 1
 
 # Definicón de instantes inicial, final y paso del tiempo
-t0 = 0.0
-tf = 30.0
+t0 = 0
+tf = 30
 dt = 0.01
 
 # Cálculo del número de intervalos o pasos temporales
