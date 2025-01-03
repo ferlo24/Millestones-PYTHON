@@ -186,4 +186,3 @@ plt.ylabel("y")
 plt.title("Solución de la EDO usando diferentes métodos numéricos")
 plt.grid()
 plt.show()
-
